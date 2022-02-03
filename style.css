@@ -1,0 +1,27 @@
+
+
+.bg-dark{
+  background-color: rgb(29, 28, 28);
+}
+
+.banner-height{
+  height: 442px;
+  background-size: cover;
+}
+
+.bolded{
+  font-weight: bold;
+}
+
+.mgl{
+  margin-left: 15px;
+}
+
+.mgr{
+  margin-right: 15px;
+}
+
+html *{
+  font-family: 'Poppins', sans-serif;
+
+}
